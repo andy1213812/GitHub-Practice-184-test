@@ -33,3 +33,20 @@ Go slowly, follow the instructions carefully, and you'll be fine!
       - Job done!
  
 Important: Your entry will NOT appear on the class table right away. Once you submit the "pull request" the owner of the repo (Xihui) needs to approve and merge it into the "master" before your entry will appear in the class table on the website.
+
+# Class GitHub Table
+| Name| Class Section	|GitHub ID	|URL for your GitHub repo|
+| --- | --- | --- | --- |
+| Matthew Beckman | Section 001 | mdbeckman | https://github.com/mdbeckman/dcData |
+| Olivia Beck | Section 002|	olbeck|	https://github.com/olbeck/GitHub-Practice-184 |
+Xihui Xu |	Section 003 |	xihuixu |	https://github.com/xihuixu/GitHub-Practice-184 |
+Rithik Nair |	Section 003	| rickynair444 |	https://github.com/rickynair444/GitHub-Practice-184 |
+Matt Leibfreid |	Section 003 |	matt-leibfreid	| https://github.com/Matt-Leibfreid/GitHub-Practice-184 |
+Winston Chen |	Section 003 |	Winston5306 |	https://github.com/Winston5306/GitHub-Practice-184 |
+Kesong Lin |	Section 003 |	KesongLin |	https://github.com/KesongLin/GitHub-Practice-184 |
+Yuan Chen |	Section 003 |	andy1213812 |	https://github.com/KesongLin/GitHub-Practice-184 |
+# Integration of RStudio with Git
+* Simplified instructions: Data Computing eBook--Appendix: GitHub-RStudio Configuration
+* More detail if needed: http://happygitwithr.com/index.html
+# Notes
+* This assignment was copied from xihui xu's github: [https://github.com/mdbeckman/GitHub-Practice-184](https://github.com/xihuixu/GitHub-Practice-184/blob/f07a7988fb77e874e62b85f23784c0825ee61d28/README.md#github-pages-assignment)
